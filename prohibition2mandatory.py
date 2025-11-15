@@ -34,7 +34,7 @@ if __name__=="__main__":
         tree = prohibition2mandatory(ET.parse(sp))
         tp = target_dir.joinpath(sp.name)
         tree.write(tp)
-        README.append(f"![image]({sp.name})\n")
+        README.append(f"![image](<{sp.name}>)\n")
     with open(target_dir.joinpath("README.md"),"w") as f:
         f.writelines(README)
         
