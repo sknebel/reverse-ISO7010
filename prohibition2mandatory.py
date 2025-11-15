@@ -29,10 +29,14 @@ def prohibition2mandatory(tree):
 if __name__=="__main__":
     source_dir = Path("source_images/gallery-dl/wikimediacommons/Category:ISO_7010_prohibition_signs/")
     target_dir = Path("outputs/prohibition2mandatory")
+    README = []
     for sp in source_dir.glob("*.svg"):
         tree = prohibition2mandatory(ET.parse(sp))
         tp = target_dir.joinpath(sp.name)
         tree.write(tp)
+        README.append(f"![image]({sp.name})\n")
+    with open(target_dir.joinpath("README.md"),"w") as f:
+        f.writelines(README)
         
         
 
