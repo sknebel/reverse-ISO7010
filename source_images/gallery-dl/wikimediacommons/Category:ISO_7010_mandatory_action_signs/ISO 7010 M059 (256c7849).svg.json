@@ -1,0 +1,112 @@
+{
+    "timestamp": "2023-05-17T11:43:39Z",
+    "user": "Clemenspool",
+    "userid": 5830611,
+    "size": 3137,
+    "width": 248,
+    "height": 248,
+    "comment": "am so sorry, I had troubles with files in Memory/cache",
+    "canonicaltitle": "File:ISO 7010 M059.svg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/ISO_7010_M059.svg",
+    "descriptionurl": "https://commons.wikimedia.org/wiki/File:ISO_7010_M059.svg",
+    "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=122923489",
+    "sha1": "256c784963b94d29b15538f269f6017808bacfc8",
+    "metadata": {
+        "version": 2,
+        "width": 248,
+        "height": 248,
+        "originalWidth": "70.114578mm",
+        "originalHeight": "70.114578mm",
+        "translations": []
+    },
+    "commonmetadata": {},
+    "extmetadata": {
+        "DateTime": {
+            "value": "2023-05-17 11:43:39",
+            "source": "mediawiki-metadata",
+            "hidden": ""
+        },
+        "ObjectName": {
+            "value": "ISO 7010 M059",
+            "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+            "value": 1.2,
+            "source": "extension",
+            "hidden": ""
+        },
+        "Categories": {
+            "value": "CC-Zero|Self-published work|ISO 7010 mandatory action signs|ISO 7010 safety signs (vector drawings)|Personal protective equipment signs",
+            "source": "commons-categories",
+            "hidden": ""
+        },
+        "Assessments": {
+            "value": "",
+            "source": "commons-categories",
+            "hidden": ""
+        },
+        "ImageDescription": {
+            "value": "ISO 7010 M059 mandatory action sign: Wear laboratory coat",
+            "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+            "value": "2022-09-12",
+            "source": "commons-desc-page"
+        },
+        "Credit": {
+            "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+            "source": "commons-desc-page"
+        },
+        "Artist": {
+            "value": "<a href=\"//commons.wikimedia.org/wiki/User:Clemenspool\" title=\"User:Clemenspool\">Clemenspool</a>",
+            "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+            "value": "CC0",
+            "source": "commons-desc-page",
+            "hidden": ""
+        },
+        "UsageTerms": {
+            "value": "Creative Commons Zero, Public Domain Dedication",
+            "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+            "value": "false",
+            "source": "commons-desc-page",
+            "hidden": ""
+        },
+        "LicenseUrl": {
+            "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+            "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+            "value": "True",
+            "source": "commons-desc-page",
+            "hidden": ""
+        },
+        "Restrictions": {
+            "value": "",
+            "source": "commons-desc-page",
+            "hidden": ""
+        },
+        "License": {
+            "value": "cc0",
+            "source": "commons-templates",
+            "hidden": ""
+        }
+    },
+    "mime": "image/svg+xml",
+    "bitdepth": 0,
+    "num": 1,
+    "filename": "ISO 7010 M059",
+    "extension": "svg",
+    "date": "2023-05-17 11:43:39",
+    "pageid": 122923489,
+    "ns": 6,
+    "title": "File:ISO 7010 M059.svg",
+    "imagerepository": "local",
+    "count": 1,
+    "page": "Category:ISO_7010_mandatory_action_signs",
+    "category": "wikimediacommons",
+    "subcategory": "category"
+}

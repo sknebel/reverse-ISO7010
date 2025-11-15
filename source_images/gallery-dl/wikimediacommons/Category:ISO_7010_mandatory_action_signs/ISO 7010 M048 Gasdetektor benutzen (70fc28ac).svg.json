@@ -1,0 +1,109 @@
+{
+    "timestamp": "2019-05-20T08:39:39Z",
+    "user": "Fornax",
+    "userid": 18228,
+    "size": 20108,
+    "width": 519,
+    "height": 519,
+    "comment": "{{Information\n|description   ={{de|1=Gebotszeichen nach ISO 7010: Gasdetektor benutzen}}\n|date          =2019\n|source        =https://www.sicherheitskennzeichen-sis.de/images/product_images/popup_images/Gasdetektor-benutzen-DIN-EN-ISO-7010_7812.jpg\n|author        =unbekannt\n}}",
+    "canonicaltitle": "File:ISO 7010 M048 Gasdetektor benutzen.svg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/ISO_7010_M048_Gasdetektor_benutzen.svg",
+    "descriptionurl": "https://commons.wikimedia.org/wiki/File:ISO_7010_M048_Gasdetektor_benutzen.svg",
+    "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=79079037",
+    "sha1": "70fc28acfcc812a38ed1b7cf5bdb94306959ca90",
+    "metadata": {
+        "version": 2,
+        "width": 519,
+        "height": 519,
+        "originalWidth": "146.3374mm",
+        "originalHeight": "146.3374mm",
+        "metadata": "<rdf:RDF xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:cc=\"http://creativecommons.org/ns#\" xmlns:dc=\"http://purl.org/dc/elements/1.1/\">\n      <cc:Work rdf:about=\"\">\n        <dc:format>image/svg+xml</dc:format>\n        <dc:type rdf:resource=\"http://purl.org/dc/dcmitype/StillImage\"/>\n        <dc:title/>\n      </cc:Work>\n    </rdf:RDF>",
+        "translations": []
+    },
+    "commonmetadata": {},
+    "extmetadata": {
+        "DateTime": {
+            "value": "2019-05-20 08:39:39",
+            "source": "mediawiki-metadata",
+            "hidden": ""
+        },
+        "ObjectName": {
+            "value": "ISO 7010 M048 Gasdetektor benutzen",
+            "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+            "value": 1.2,
+            "source": "extension",
+            "hidden": ""
+        },
+        "Categories": {
+            "value": "PD shape|ISO 7010 mandatory action signs|ISO 7010 safety signs (vector drawings)|Valid SVG created with Inkscape:Signs|Template Unknown (author)|PD-shape missing SDC copyright status",
+            "source": "commons-categories",
+            "hidden": ""
+        },
+        "Assessments": {
+            "value": "",
+            "source": "commons-categories",
+            "hidden": ""
+        },
+        "ImageDescription": {
+            "value": "Gebotszeichen nach ISO 7010: Gasdetektor benutzen",
+            "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+            "value": "2019",
+            "source": "commons-desc-page"
+        },
+        "Credit": {
+            "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.sicherheitskennzeichen-sis.de/images/product_images/popup_images/Gasdetektor-benutzen-DIN-EN-ISO-7010_7812.jpg\">https://www.sicherheitskennzeichen-sis.de/images/product_images/popup_images/Gasdetektor-benutzen-DIN-EN-ISO-7010_7812.jpg</a>",
+            "source": "commons-desc-page"
+        },
+        "Artist": {
+            "value": "Unknown author<span style=\"display: none;\">Unknown author</span>",
+            "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+            "value": "Public domain",
+            "source": "commons-desc-page",
+            "hidden": ""
+        },
+        "UsageTerms": {
+            "value": "Public domain",
+            "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+            "value": "false",
+            "source": "commons-desc-page",
+            "hidden": ""
+        },
+        "Copyrighted": {
+            "value": "False",
+            "source": "commons-desc-page",
+            "hidden": ""
+        },
+        "Restrictions": {
+            "value": "",
+            "source": "commons-desc-page",
+            "hidden": ""
+        },
+        "License": {
+            "value": "pd",
+            "source": "commons-templates",
+            "hidden": ""
+        }
+    },
+    "mime": "image/svg+xml",
+    "bitdepth": 0,
+    "num": 1,
+    "filename": "ISO 7010 M048 Gasdetektor benutzen",
+    "extension": "svg",
+    "date": "2019-05-20 08:39:39",
+    "pageid": 79079037,
+    "ns": 6,
+    "title": "File:ISO 7010 M048 Gasdetektor benutzen.svg",
+    "imagerepository": "local",
+    "count": 1,
+    "page": "Category:ISO_7010_mandatory_action_signs",
+    "category": "wikimediacommons",
+    "subcategory": "category"
+}

@@ -1,0 +1,112 @@
+{
+    "timestamp": "2022-03-21T18:53:04Z",
+    "user": "Jonas Steinhöfel",
+    "userid": 1701477,
+    "size": 1583,
+    "width": 265,
+    "height": 265,
+    "comment": "Correct version from https://www.iso.org/obp/ui/#iso:grs:7010:P019",
+    "canonicaltitle": "File:ISO 7010 P019.svg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/8/80/ISO_7010_P019.svg",
+    "descriptionurl": "https://commons.wikimedia.org/wiki/File:ISO_7010_P019.svg",
+    "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=31992010",
+    "sha1": "53ea11554d7cd2414fb9a4937e8e9e395356e28b",
+    "metadata": {
+        "version": 2,
+        "width": 265,
+        "height": 265,
+        "originalWidth": "265",
+        "originalHeight": "265",
+        "translations": []
+    },
+    "commonmetadata": {},
+    "extmetadata": {
+        "DateTime": {
+            "value": "2022-03-21 18:53:04",
+            "source": "mediawiki-metadata",
+            "hidden": ""
+        },
+        "ObjectName": {
+            "value": "ISO 7010 P019",
+            "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+            "value": 1.2,
+            "source": "extension",
+            "hidden": ""
+        },
+        "Categories": {
+            "value": "CC-Zero|Self-published work|ISO 7010 safety signs (vector drawings)|ISO 7010 prohibition signs",
+            "source": "commons-categories",
+            "hidden": ""
+        },
+        "Assessments": {
+            "value": "",
+            "source": "commons-categories",
+            "hidden": ""
+        },
+        "ImageDescription": {
+            "value": "Aufsteigen verboten",
+            "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+            "value": "2014-04-04 19:54:03",
+            "source": "commons-desc-page"
+        },
+        "Credit": {
+            "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.iso.org/obp/ui/#iso:grs:7010:P019\">ISO 7010 - P019</a><br><span class=\"int-own-work\" lang=\"en\">Own work</span>",
+            "source": "commons-desc-page"
+        },
+        "Artist": {
+            "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.iso.org/\">ISO</a>",
+            "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+            "value": "CC0",
+            "source": "commons-desc-page",
+            "hidden": ""
+        },
+        "UsageTerms": {
+            "value": "Creative Commons Zero, Public Domain Dedication",
+            "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+            "value": "false",
+            "source": "commons-desc-page",
+            "hidden": ""
+        },
+        "LicenseUrl": {
+            "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+            "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+            "value": "True",
+            "source": "commons-desc-page",
+            "hidden": ""
+        },
+        "Restrictions": {
+            "value": "",
+            "source": "commons-desc-page",
+            "hidden": ""
+        },
+        "License": {
+            "value": "cc0",
+            "source": "commons-templates",
+            "hidden": ""
+        }
+    },
+    "mime": "image/svg+xml",
+    "bitdepth": 0,
+    "num": 1,
+    "filename": "ISO 7010 P019",
+    "extension": "svg",
+    "date": "2022-03-21 18:53:04",
+    "pageid": 31992010,
+    "ns": 6,
+    "title": "File:ISO 7010 P019.svg",
+    "imagerepository": "local",
+    "count": 1,
+    "page": "Category:ISO_7010_prohibition_signs",
+    "category": "wikimediacommons",
+    "subcategory": "category"
+}

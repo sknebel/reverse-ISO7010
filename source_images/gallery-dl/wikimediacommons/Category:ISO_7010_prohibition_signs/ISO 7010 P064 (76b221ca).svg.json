@@ -1,0 +1,108 @@
+{
+    "timestamp": "2022-04-04T13:19:08Z",
+    "user": "Jonas Steinhöfel",
+    "userid": 1701477,
+    "size": 3627,
+    "width": 265,
+    "height": 265,
+    "comment": "== {{int:filedesc}} ==\n{{Information\n|Description=\n{{de|[[:de:Verbotszeichen|Verbotszeichen]] P064: ''Surfen zwischen den rot-gelben Flaggen verboten''}}\n{{en|Prohibition sign P064: ''No surfing between the red-and-yellow flags''}}\n|Date=2019-07-30\n|source=[https://www.iso.org/obp/ui/#iso:grs:7010:P064 ISO 7010 - P064]<br />{{own}}\n|author=[https://www.iso.org/ ISO]\n|Permission = \n|other_versions=\n}}\n\n== {{int:license-header}} ==\n{{PD-self}}\n\n[[Category:ISO 7010 prohibition signs]]\n[[Category...",
+    "canonicaltitle": "File:ISO 7010 P064.svg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/4/49/ISO_7010_P064.svg",
+    "descriptionurl": "https://commons.wikimedia.org/wiki/File:ISO_7010_P064.svg",
+    "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=116655522",
+    "sha1": "76b221ca7322edbf7f308831fa2045d895e7d11e",
+    "metadata": {
+        "version": 2,
+        "width": 265,
+        "height": 265,
+        "originalWidth": "265",
+        "originalHeight": "265",
+        "translations": []
+    },
+    "commonmetadata": {},
+    "extmetadata": {
+        "DateTime": {
+            "value": "2022-04-04 13:19:08",
+            "source": "mediawiki-metadata",
+            "hidden": ""
+        },
+        "ObjectName": {
+            "value": "ISO 7010 P064",
+            "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+            "value": 1.2,
+            "source": "extension",
+            "hidden": ""
+        },
+        "Categories": {
+            "value": "Self-published work|PD-self|ISO 7010 safety signs (vector drawings)|ISO 7010 prohibition signs",
+            "source": "commons-categories",
+            "hidden": ""
+        },
+        "Assessments": {
+            "value": "",
+            "source": "commons-categories",
+            "hidden": ""
+        },
+        "ImageDescription": {
+            "value": "Prohibition sign P064: <i>No surfing between the red-and-yellow flags</i>",
+            "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+            "value": "2019-07-30",
+            "source": "commons-desc-page"
+        },
+        "Credit": {
+            "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.iso.org/obp/ui/#iso:grs:7010:P064\">ISO 7010 - P064</a><br><span class=\"int-own-work\" lang=\"en\">Own work</span>",
+            "source": "commons-desc-page"
+        },
+        "Artist": {
+            "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.iso.org/\">ISO</a>",
+            "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+            "value": "Public domain",
+            "source": "commons-desc-page",
+            "hidden": ""
+        },
+        "UsageTerms": {
+            "value": "Public domain",
+            "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+            "value": "false",
+            "source": "commons-desc-page",
+            "hidden": ""
+        },
+        "Copyrighted": {
+            "value": "False",
+            "source": "commons-desc-page",
+            "hidden": ""
+        },
+        "Restrictions": {
+            "value": "",
+            "source": "commons-desc-page",
+            "hidden": ""
+        },
+        "License": {
+            "value": "pd",
+            "source": "commons-templates",
+            "hidden": ""
+        }
+    },
+    "mime": "image/svg+xml",
+    "bitdepth": 0,
+    "num": 1,
+    "filename": "ISO 7010 P064",
+    "extension": "svg",
+    "date": "2022-04-04 13:19:08",
+    "pageid": 116655522,
+    "ns": 6,
+    "title": "File:ISO 7010 P064.svg",
+    "imagerepository": "local",
+    "count": 1,
+    "page": "Category:ISO_7010_prohibition_signs",
+    "category": "wikimediacommons",
+    "subcategory": "category"
+}

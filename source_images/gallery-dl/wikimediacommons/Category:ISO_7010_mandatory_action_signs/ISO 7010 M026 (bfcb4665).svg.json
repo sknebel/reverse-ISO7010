@@ -1,0 +1,108 @@
+{
+    "timestamp": "2022-04-10T17:48:44Z",
+    "user": "Jonas Steinhöfel",
+    "userid": 1701477,
+    "size": 1568,
+    "width": 265,
+    "height": 265,
+    "comment": "svg size fix",
+    "canonicaltitle": "File:ISO 7010 M026.svg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/ISO_7010_M026.svg",
+    "descriptionurl": "https://commons.wikimedia.org/wiki/File:ISO_7010_M026.svg",
+    "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=26467337",
+    "sha1": "bfcb4665ee2eafd182ff4e43423b9bc429f3fb51",
+    "metadata": {
+        "version": 2,
+        "width": 265,
+        "height": 265,
+        "originalWidth": "265",
+        "originalHeight": "265",
+        "translations": []
+    },
+    "commonmetadata": {},
+    "extmetadata": {
+        "DateTime": {
+            "value": "2022-04-10 17:48:44",
+            "source": "mediawiki-metadata",
+            "hidden": ""
+        },
+        "ObjectName": {
+            "value": "ISO 7010 M026",
+            "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+            "value": 1.2,
+            "source": "extension",
+            "hidden": ""
+        },
+        "Categories": {
+            "value": "Self-published work|PD-self|ISO 7010 mandatory action signs|ISO 7010 safety signs (vector drawings)|Valid SVG created with Other tools:ISO 7010 signs",
+            "source": "commons-categories",
+            "hidden": ""
+        },
+        "Assessments": {
+            "value": "",
+            "source": "commons-categories",
+            "hidden": ""
+        },
+        "ImageDescription": {
+            "value": "Mandatory action sign M026: <i>Use protective apron</i>",
+            "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+            "value": "2011-05-01",
+            "source": "commons-desc-page"
+        },
+        "Credit": {
+            "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.iso.org/obp/ui/#iso:grs:7010:M026\">ISO 7010 - M026</a><br><span class=\"int-own-work\" lang=\"en\">Own work</span>",
+            "source": "commons-desc-page"
+        },
+        "Artist": {
+            "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.iso.org/\">ISO</a>",
+            "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+            "value": "Public domain",
+            "source": "commons-desc-page",
+            "hidden": ""
+        },
+        "UsageTerms": {
+            "value": "Public domain",
+            "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+            "value": "false",
+            "source": "commons-desc-page",
+            "hidden": ""
+        },
+        "Copyrighted": {
+            "value": "False",
+            "source": "commons-desc-page",
+            "hidden": ""
+        },
+        "Restrictions": {
+            "value": "",
+            "source": "commons-desc-page",
+            "hidden": ""
+        },
+        "License": {
+            "value": "pd",
+            "source": "commons-templates",
+            "hidden": ""
+        }
+    },
+    "mime": "image/svg+xml",
+    "bitdepth": 0,
+    "num": 1,
+    "filename": "ISO 7010 M026",
+    "extension": "svg",
+    "date": "2022-04-10 17:48:44",
+    "pageid": 26467337,
+    "ns": 6,
+    "title": "File:ISO 7010 M026.svg",
+    "imagerepository": "local",
+    "count": 1,
+    "page": "Category:ISO_7010_mandatory_action_signs",
+    "category": "wikimediacommons",
+    "subcategory": "category"
+}

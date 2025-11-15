@@ -1,0 +1,112 @@
+{
+    "timestamp": "2025-09-03T19:19:10Z",
+    "user": "Clemenspool",
+    "userid": 5830611,
+    "size": 32946,
+    "width": 265,
+    "height": 265,
+    "comment": "Uploaded own work with UploadWizard",
+    "canonicaltitle": "File:ISO 7010 M072.svg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/ISO_7010_M072.svg",
+    "descriptionurl": "https://commons.wikimedia.org/wiki/File:ISO_7010_M072.svg",
+    "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=174319774",
+    "sha1": "983469414ced73e4579e3271a80decab4ede8201",
+    "metadata": {
+        "version": 2,
+        "width": 265,
+        "height": 265,
+        "originalWidth": "70.114571mm",
+        "originalHeight": "70.114586mm",
+        "translations": []
+    },
+    "commonmetadata": {},
+    "extmetadata": {
+        "DateTime": {
+            "value": "2025-09-03 19:19:10",
+            "source": "mediawiki-metadata",
+            "hidden": ""
+        },
+        "ObjectName": {
+            "value": "ISO 7010 M072",
+            "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+            "value": 1.2,
+            "source": "extension",
+            "hidden": ""
+        },
+        "Categories": {
+            "value": "CC-Zero|Self-published work|ISO 7010 mandatory action signs|ISO 7010 safety signs (vector drawings)",
+            "source": "commons-categories",
+            "hidden": ""
+        },
+        "Assessments": {
+            "value": "",
+            "source": "commons-categories",
+            "hidden": ""
+        },
+        "ImageDescription": {
+            "value": "Use decontamination shower; To signify that a decontamination shower must be used.",
+            "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+            "value": "2025-09-03",
+            "source": "commons-desc-page"
+        },
+        "Credit": {
+            "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+            "source": "commons-desc-page"
+        },
+        "Artist": {
+            "value": "<a href=\"//commons.wikimedia.org/wiki/User:Clemenspool\" title=\"User:Clemenspool\">Clemenspool</a>",
+            "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+            "value": "CC0",
+            "source": "commons-desc-page",
+            "hidden": ""
+        },
+        "UsageTerms": {
+            "value": "Creative Commons Zero, Public Domain Dedication",
+            "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+            "value": "false",
+            "source": "commons-desc-page",
+            "hidden": ""
+        },
+        "LicenseUrl": {
+            "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+            "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+            "value": "True",
+            "source": "commons-desc-page",
+            "hidden": ""
+        },
+        "Restrictions": {
+            "value": "",
+            "source": "commons-desc-page",
+            "hidden": ""
+        },
+        "License": {
+            "value": "cc0",
+            "source": "commons-templates",
+            "hidden": ""
+        }
+    },
+    "mime": "image/svg+xml",
+    "bitdepth": 0,
+    "num": 1,
+    "filename": "ISO 7010 M072",
+    "extension": "svg",
+    "date": "2025-09-03 19:19:10",
+    "pageid": 174319774,
+    "ns": 6,
+    "title": "File:ISO 7010 M072.svg",
+    "imagerepository": "local",
+    "count": 1,
+    "page": "Category:ISO_7010_mandatory_action_signs",
+    "category": "wikimediacommons",
+    "subcategory": "category"
+}

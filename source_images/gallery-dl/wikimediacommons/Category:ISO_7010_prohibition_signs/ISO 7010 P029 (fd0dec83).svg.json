@@ -1,0 +1,112 @@
+{
+    "timestamp": "2022-03-23T17:25:00Z",
+    "user": "Jonas Steinhöfel",
+    "userid": 1701477,
+    "size": 1887,
+    "width": 265,
+    "height": 265,
+    "comment": "Correct version from https://www.iso.org/obp/ui/#iso:grs:7010:P029",
+    "canonicaltitle": "File:ISO 7010 P029.svg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/ISO_7010_P029.svg",
+    "descriptionurl": "https://commons.wikimedia.org/wiki/File:ISO_7010_P029.svg",
+    "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=31992011",
+    "sha1": "fd0dec8331484cbcc221acdc8fc0a64dd8544016",
+    "metadata": {
+        "version": 2,
+        "width": 265,
+        "height": 265,
+        "originalWidth": "265",
+        "originalHeight": "265",
+        "translations": []
+    },
+    "commonmetadata": {},
+    "extmetadata": {
+        "DateTime": {
+            "value": "2022-03-23 17:25:00",
+            "source": "mediawiki-metadata",
+            "hidden": ""
+        },
+        "ObjectName": {
+            "value": "ISO 7010 P029",
+            "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+            "value": 1.2,
+            "source": "extension",
+            "hidden": ""
+        },
+        "Categories": {
+            "value": "CC-Zero|Photography prohibition signs|Self-published work|SVG Anti logos|ISO 7010 safety signs (vector drawings)|ISO 7010 prohibition signs|SVG anti camera icons",
+            "source": "commons-categories",
+            "hidden": ""
+        },
+        "Assessments": {
+            "value": "",
+            "source": "commons-categories",
+            "hidden": ""
+        },
+        "ImageDescription": {
+            "value": "No Photography",
+            "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+            "value": "2014-04-04 19:54:04",
+            "source": "commons-desc-page"
+        },
+        "Credit": {
+            "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.iso.org/obp/ui/#iso:grs:7010:P029\">ISO 7010 - P029</a><br><span class=\"int-own-work\" lang=\"en\">Own work</span>",
+            "source": "commons-desc-page"
+        },
+        "Artist": {
+            "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.iso.org/\">ISO</a>",
+            "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+            "value": "CC0",
+            "source": "commons-desc-page",
+            "hidden": ""
+        },
+        "UsageTerms": {
+            "value": "Creative Commons Zero, Public Domain Dedication",
+            "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+            "value": "false",
+            "source": "commons-desc-page",
+            "hidden": ""
+        },
+        "LicenseUrl": {
+            "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+            "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+            "value": "True",
+            "source": "commons-desc-page",
+            "hidden": ""
+        },
+        "Restrictions": {
+            "value": "",
+            "source": "commons-desc-page",
+            "hidden": ""
+        },
+        "License": {
+            "value": "cc0",
+            "source": "commons-templates",
+            "hidden": ""
+        }
+    },
+    "mime": "image/svg+xml",
+    "bitdepth": 0,
+    "num": 1,
+    "filename": "ISO 7010 P029",
+    "extension": "svg",
+    "date": "2022-03-23 17:25:00",
+    "pageid": 31992011,
+    "ns": 6,
+    "title": "File:ISO 7010 P029.svg",
+    "imagerepository": "local",
+    "count": 1,
+    "page": "Category:ISO_7010_prohibition_signs",
+    "category": "wikimediacommons",
+    "subcategory": "category"
+}

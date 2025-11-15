@@ -1,0 +1,112 @@
+{
+    "timestamp": "2022-09-12T09:38:37Z",
+    "user": "Clemenspool",
+    "userid": 5830611,
+    "size": 6679,
+    "width": 265,
+    "height": 265,
+    "comment": "Uploaded own work with UploadWizard",
+    "canonicaltitle": "File:ISO 7010 M058.svg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/6/6d/ISO_7010_M058.svg",
+    "descriptionurl": "https://commons.wikimedia.org/wiki/File:ISO_7010_M058.svg",
+    "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=122923488",
+    "sha1": "691c927ca11e6b206c5ffd272f5acd25be05dadd",
+    "metadata": {
+        "version": 2,
+        "width": 265,
+        "height": 265,
+        "originalWidth": "265",
+        "originalHeight": "265",
+        "translations": []
+    },
+    "commonmetadata": {},
+    "extmetadata": {
+        "DateTime": {
+            "value": "2022-09-12 09:38:37",
+            "source": "mediawiki-metadata",
+            "hidden": ""
+        },
+        "ObjectName": {
+            "value": "ISO 7010 M058",
+            "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+            "value": 1.2,
+            "source": "extension",
+            "hidden": ""
+        },
+        "Categories": {
+            "value": "CC-Zero|Self-published work|ISO 7010 mandatory action signs|ISO 7010 safety signs (vector drawings)",
+            "source": "commons-categories",
+            "hidden": ""
+        },
+        "Assessments": {
+            "value": "",
+            "source": "commons-categories",
+            "hidden": ""
+        },
+        "ImageDescription": {
+            "value": "ISO 7010 M058 mandatory action sign: Entry only with supervisor outside",
+            "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+            "value": "2022-09-12",
+            "source": "commons-desc-page"
+        },
+        "Credit": {
+            "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+            "source": "commons-desc-page"
+        },
+        "Artist": {
+            "value": "<a href=\"//commons.wikimedia.org/wiki/User:Clemenspool\" title=\"User:Clemenspool\">Clemenspool</a>",
+            "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+            "value": "CC0",
+            "source": "commons-desc-page",
+            "hidden": ""
+        },
+        "UsageTerms": {
+            "value": "Creative Commons Zero, Public Domain Dedication",
+            "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+            "value": "false",
+            "source": "commons-desc-page",
+            "hidden": ""
+        },
+        "LicenseUrl": {
+            "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+            "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+            "value": "True",
+            "source": "commons-desc-page",
+            "hidden": ""
+        },
+        "Restrictions": {
+            "value": "",
+            "source": "commons-desc-page",
+            "hidden": ""
+        },
+        "License": {
+            "value": "cc0",
+            "source": "commons-templates",
+            "hidden": ""
+        }
+    },
+    "mime": "image/svg+xml",
+    "bitdepth": 0,
+    "num": 1,
+    "filename": "ISO 7010 M058",
+    "extension": "svg",
+    "date": "2022-09-12 09:38:37",
+    "pageid": 122923488,
+    "ns": 6,
+    "title": "File:ISO 7010 M058.svg",
+    "imagerepository": "local",
+    "count": 1,
+    "page": "Category:ISO_7010_mandatory_action_signs",
+    "category": "wikimediacommons",
+    "subcategory": "category"
+}

@@ -1,0 +1,112 @@
+{
+    "timestamp": "2021-05-16T01:49:06Z",
+    "user": "Repeater-reclaim",
+    "userid": 3982252,
+    "size": 31174,
+    "width": 265,
+    "height": 265,
+    "comment": "Uploaded own work with UploadWizard",
+    "canonicaltitle": "File:ISO 7010 M040; mandatory; lower the lifeboat to the water (lifeboat launch sequence).svg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/ISO_7010_M040%3B_mandatory%3B_lower_the_lifeboat_to_the_water_%28lifeboat_launch_sequence%29.svg",
+    "descriptionurl": "https://commons.wikimedia.org/wiki/File:ISO_7010_M040;_mandatory;_lower_the_lifeboat_to_the_water_(lifeboat_launch_sequence).svg",
+    "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=105355147",
+    "sha1": "436ef6f99b2efaf9e32c19a034ac406e5fccb812",
+    "metadata": {
+        "version": 2,
+        "width": 265,
+        "height": 265,
+        "originalWidth": "264.568",
+        "originalHeight": "264.567",
+        "translations": []
+    },
+    "commonmetadata": {},
+    "extmetadata": {
+        "DateTime": {
+            "value": "2021-05-16 01:49:06",
+            "source": "mediawiki-metadata",
+            "hidden": ""
+        },
+        "ObjectName": {
+            "value": "ISO 7010 M040; mandatory; lower the lifeboat to the water (lifeboat launch sequence)",
+            "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+            "value": 1.2,
+            "source": "extension",
+            "hidden": ""
+        },
+        "Categories": {
+            "value": "CC-Zero|Self-published work|ISO 7010 mandatory action signs|ISO 7010 safety signs (vector drawings)|Valid SVG created with Other tools:Signs",
+            "source": "commons-categories",
+            "hidden": ""
+        },
+        "Assessments": {
+            "value": "",
+            "source": "commons-categories",
+            "hidden": ""
+        },
+        "ImageDescription": {
+            "value": "ISO 7010 M040; mandatory; lower the lifeboat to the water (lifeboat launch sequence)",
+            "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+            "value": "2019-01-01",
+            "source": "commons-desc-page"
+        },
+        "Credit": {
+            "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+            "source": "commons-desc-page"
+        },
+        "Artist": {
+            "value": "<a href=\"//commons.wikimedia.org/wiki/User:Repeater-reclaim\" title=\"User:Repeater-reclaim\">Author</a>",
+            "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+            "value": "CC0",
+            "source": "commons-desc-page",
+            "hidden": ""
+        },
+        "UsageTerms": {
+            "value": "Creative Commons Zero, Public Domain Dedication",
+            "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+            "value": "false",
+            "source": "commons-desc-page",
+            "hidden": ""
+        },
+        "LicenseUrl": {
+            "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+            "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+            "value": "True",
+            "source": "commons-desc-page",
+            "hidden": ""
+        },
+        "Restrictions": {
+            "value": "",
+            "source": "commons-desc-page",
+            "hidden": ""
+        },
+        "License": {
+            "value": "cc0",
+            "source": "commons-templates",
+            "hidden": ""
+        }
+    },
+    "mime": "image/svg+xml",
+    "bitdepth": 0,
+    "num": 1,
+    "filename": "ISO 7010 M040; mandatory; lower the lifeboat to the water (lifeboat launch sequence)",
+    "extension": "svg",
+    "date": "2021-05-16 01:49:06",
+    "pageid": 105355147,
+    "ns": 6,
+    "title": "File:ISO 7010 M040; mandatory; lower the lifeboat to the water (lifeboat launch sequence).svg",
+    "imagerepository": "local",
+    "count": 1,
+    "page": "Category:ISO_7010_mandatory_action_signs",
+    "category": "wikimediacommons",
+    "subcategory": "category"
+}

@@ -1,0 +1,112 @@
+{
+    "timestamp": "2021-05-16T01:52:21Z",
+    "user": "Repeater-reclaim",
+    "userid": 3982252,
+    "size": 3163,
+    "width": 265,
+    "height": 265,
+    "comment": "Uploaded own work with UploadWizard",
+    "canonicaltitle": "File:ISO 7010 M053; mandatory; wear personal floatation device (PFD) (lifejacket).svg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/2/20/ISO_7010_M053%3B_mandatory%3B_wear_personal_floatation_device_%28PFD%29_%28lifejacket%29.svg",
+    "descriptionurl": "https://commons.wikimedia.org/wiki/File:ISO_7010_M053;_mandatory;_wear_personal_floatation_device_(PFD)_(lifejacket).svg",
+    "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=105355206",
+    "sha1": "220ae56bd590e6a053b38745991561c5a062b62a",
+    "metadata": {
+        "version": 2,
+        "width": 265,
+        "height": 265,
+        "originalWidth": "264.578",
+        "originalHeight": "264.573",
+        "translations": []
+    },
+    "commonmetadata": {},
+    "extmetadata": {
+        "DateTime": {
+            "value": "2021-05-16 01:52:21",
+            "source": "mediawiki-metadata",
+            "hidden": ""
+        },
+        "ObjectName": {
+            "value": "ISO 7010 M053; mandatory; wear personal floatation device (PFD) (lifejacket)",
+            "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+            "value": 1.2,
+            "source": "extension",
+            "hidden": ""
+        },
+        "Categories": {
+            "value": "CC-Zero|Self-published work|ISO 7010 mandatory action signs|ISO 7010 safety signs (vector drawings)|Valid SVG created with Other tools:Signs|Personal protective equipment signs|Diagrams of water safety signs in Poland",
+            "source": "commons-categories",
+            "hidden": ""
+        },
+        "Assessments": {
+            "value": "",
+            "source": "commons-categories",
+            "hidden": ""
+        },
+        "ImageDescription": {
+            "value": "ISO 7010 M053; mandatory; wear personal floatation device (PFD) (lifejacket) (lifevest) (life preserver)",
+            "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+            "value": "2019-01-01",
+            "source": "commons-desc-page"
+        },
+        "Credit": {
+            "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+            "source": "commons-desc-page"
+        },
+        "Artist": {
+            "value": "<a href=\"//commons.wikimedia.org/wiki/User:Repeater-reclaim\" title=\"User:Repeater-reclaim\">Author</a>",
+            "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+            "value": "CC0",
+            "source": "commons-desc-page",
+            "hidden": ""
+        },
+        "UsageTerms": {
+            "value": "Creative Commons Zero, Public Domain Dedication",
+            "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+            "value": "false",
+            "source": "commons-desc-page",
+            "hidden": ""
+        },
+        "LicenseUrl": {
+            "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+            "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+            "value": "True",
+            "source": "commons-desc-page",
+            "hidden": ""
+        },
+        "Restrictions": {
+            "value": "",
+            "source": "commons-desc-page",
+            "hidden": ""
+        },
+        "License": {
+            "value": "cc0",
+            "source": "commons-templates",
+            "hidden": ""
+        }
+    },
+    "mime": "image/svg+xml",
+    "bitdepth": 0,
+    "num": 1,
+    "filename": "ISO 7010 M053; mandatory; wear personal floatation device (PFD) (lifejacket)",
+    "extension": "svg",
+    "date": "2021-05-16 01:52:21",
+    "pageid": 105355206,
+    "ns": 6,
+    "title": "File:ISO 7010 M053; mandatory; wear personal floatation device (PFD) (lifejacket).svg",
+    "imagerepository": "local",
+    "count": 1,
+    "page": "Category:ISO_7010_mandatory_action_signs",
+    "category": "wikimediacommons",
+    "subcategory": "category"
+}

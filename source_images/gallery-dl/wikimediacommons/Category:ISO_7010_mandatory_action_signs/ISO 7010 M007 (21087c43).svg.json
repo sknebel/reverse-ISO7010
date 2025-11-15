@@ -1,0 +1,108 @@
+{
+    "timestamp": "2022-04-05T16:27:49Z",
+    "user": "Jonas Steinhöfel",
+    "userid": 1701477,
+    "size": 2156,
+    "width": 265,
+    "height": 265,
+    "comment": "svg size fix",
+    "canonicaltitle": "File:ISO 7010 M007.svg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/0/00/ISO_7010_M007.svg",
+    "descriptionurl": "https://commons.wikimedia.org/wiki/File:ISO_7010_M007.svg",
+    "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=31972903",
+    "sha1": "21087c43b3ced072d546201c14887222a1e4a143",
+    "metadata": {
+        "version": 2,
+        "width": 265,
+        "height": 265,
+        "originalWidth": "265",
+        "originalHeight": "265",
+        "translations": []
+    },
+    "commonmetadata": {},
+    "extmetadata": {
+        "DateTime": {
+            "value": "2022-04-05 16:27:49",
+            "source": "mediawiki-metadata",
+            "hidden": ""
+        },
+        "ObjectName": {
+            "value": "ISO 7010 M007",
+            "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+            "value": 1.2,
+            "source": "extension",
+            "hidden": ""
+        },
+        "Categories": {
+            "value": "Self-published work|PD-self|ISO 7010 mandatory action signs|ISO 7010 safety signs (vector drawings)|Personal protective equipment signs|Diagrams of mandatory eye protection signs|Valid SVG created with Other tools:ISO 7010 signs",
+            "source": "commons-categories",
+            "hidden": ""
+        },
+        "Assessments": {
+            "value": "",
+            "source": "commons-categories",
+            "hidden": ""
+        },
+        "ImageDescription": {
+            "value": "Mandatory action sign M007: <i>Opaque eye protection must be worn</i>",
+            "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+            "value": "2011-05-01",
+            "source": "commons-desc-page"
+        },
+        "Credit": {
+            "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.iso.org/obp/ui/#iso:grs:7010:M007\">ISO 7010 - M007</a><br><span class=\"int-own-work\" lang=\"en\">Own work</span>",
+            "source": "commons-desc-page"
+        },
+        "Artist": {
+            "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.iso.org/\">ISO</a>",
+            "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+            "value": "Public domain",
+            "source": "commons-desc-page",
+            "hidden": ""
+        },
+        "UsageTerms": {
+            "value": "Public domain",
+            "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+            "value": "false",
+            "source": "commons-desc-page",
+            "hidden": ""
+        },
+        "Copyrighted": {
+            "value": "False",
+            "source": "commons-desc-page",
+            "hidden": ""
+        },
+        "Restrictions": {
+            "value": "",
+            "source": "commons-desc-page",
+            "hidden": ""
+        },
+        "License": {
+            "value": "pd",
+            "source": "commons-templates",
+            "hidden": ""
+        }
+    },
+    "mime": "image/svg+xml",
+    "bitdepth": 0,
+    "num": 1,
+    "filename": "ISO 7010 M007",
+    "extension": "svg",
+    "date": "2022-04-05 16:27:49",
+    "pageid": 31972903,
+    "ns": 6,
+    "title": "File:ISO 7010 M007.svg",
+    "imagerepository": "local",
+    "count": 1,
+    "page": "Category:ISO_7010_mandatory_action_signs",
+    "category": "wikimediacommons",
+    "subcategory": "category"
+}

@@ -1,0 +1,112 @@
+{
+    "timestamp": "2023-07-25T16:28:44Z",
+    "user": "Clemenspool",
+    "userid": 5830611,
+    "size": 3948,
+    "width": 248,
+    "height": 248,
+    "comment": "Uploaded own work with UploadWizard",
+    "canonicaltitle": "File:ISO 7010 P075.svg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/7/70/ISO_7010_P075.svg",
+    "descriptionurl": "https://commons.wikimedia.org/wiki/File:ISO_7010_P075.svg",
+    "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=134953267",
+    "sha1": "5839c45280df115c04438513fdf62f565c3eeff8",
+    "metadata": {
+        "version": 2,
+        "width": 248,
+        "height": 248,
+        "originalWidth": "70.105797mm",
+        "originalHeight": "70.106308mm",
+        "translations": []
+    },
+    "commonmetadata": {},
+    "extmetadata": {
+        "DateTime": {
+            "value": "2023-07-25 16:28:44",
+            "source": "mediawiki-metadata",
+            "hidden": ""
+        },
+        "ObjectName": {
+            "value": "ISO 7010 P075",
+            "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+            "value": 1.2,
+            "source": "extension",
+            "hidden": ""
+        },
+        "Categories": {
+            "value": "CC-Zero|Self-published work|ISO 7010 safety signs (vector drawings)|ISO 7010 prohibition signs",
+            "source": "commons-categories",
+            "hidden": ""
+        },
+        "Assessments": {
+            "value": "",
+            "source": "commons-categories",
+            "hidden": ""
+        },
+        "ImageDescription": {
+            "value": "ISO 7010 P075 Do not stare at light source; To prohibit staring at a light source",
+            "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+            "value": "2023-07-25",
+            "source": "commons-desc-page"
+        },
+        "Credit": {
+            "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+            "source": "commons-desc-page"
+        },
+        "Artist": {
+            "value": "<a href=\"//commons.wikimedia.org/wiki/User:Clemenspool\" title=\"User:Clemenspool\">Clemenspool</a>",
+            "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+            "value": "CC0",
+            "source": "commons-desc-page",
+            "hidden": ""
+        },
+        "UsageTerms": {
+            "value": "Creative Commons Zero, Public Domain Dedication",
+            "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+            "value": "false",
+            "source": "commons-desc-page",
+            "hidden": ""
+        },
+        "LicenseUrl": {
+            "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+            "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+            "value": "True",
+            "source": "commons-desc-page",
+            "hidden": ""
+        },
+        "Restrictions": {
+            "value": "",
+            "source": "commons-desc-page",
+            "hidden": ""
+        },
+        "License": {
+            "value": "cc0",
+            "source": "commons-templates",
+            "hidden": ""
+        }
+    },
+    "mime": "image/svg+xml",
+    "bitdepth": 0,
+    "num": 1,
+    "filename": "ISO 7010 P075",
+    "extension": "svg",
+    "date": "2023-07-25 16:28:44",
+    "pageid": 134953267,
+    "ns": 6,
+    "title": "File:ISO 7010 P075.svg",
+    "imagerepository": "local",
+    "count": 1,
+    "page": "Category:ISO_7010_prohibition_signs",
+    "category": "wikimediacommons",
+    "subcategory": "category"
+}

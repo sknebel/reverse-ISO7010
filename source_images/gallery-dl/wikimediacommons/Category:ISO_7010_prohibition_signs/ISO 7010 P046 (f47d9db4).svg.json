@@ -1,0 +1,108 @@
+{
+    "timestamp": "2022-03-26T11:16:24Z",
+    "user": "Jonas Steinhöfel",
+    "userid": 1701477,
+    "size": 1938,
+    "width": 265,
+    "height": 265,
+    "comment": "== {{int:filedesc}} ==\n{{Information\n|Description=\n{{de|[[:de:Verbotszeichen|Verbotszeichen]] P046: ''Nicht aus Rodelschlitten herausstrecken''}}\n{{en|Prohibition sign P046: ''Do not stretch out of toboggan''}}\n|Date=2017-12-11\n|source=[https://www.iso.org/obp/ui/#iso:grs:7010:P046 ISO 7010 - P046]<br />{{own}}\n|author=[https://www.iso.org/ ISO]\n| Permission = \n|other_versions=\n}}\n\n== {{int:license-header}} ==\n{{PD-self}}\n\n[[Category:ISO 7010 prohibition signs]]\n[[Category:ISO 7010 safety sig...",
+    "canonicaltitle": "File:ISO 7010 P046.svg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/f/fb/ISO_7010_P046.svg",
+    "descriptionurl": "https://commons.wikimedia.org/wiki/File:ISO_7010_P046.svg",
+    "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=116424956",
+    "sha1": "f47d9db4d3fa85a101965acfb3320e8171e633e5",
+    "metadata": {
+        "version": 2,
+        "width": 265,
+        "height": 265,
+        "originalWidth": "265",
+        "originalHeight": "265",
+        "translations": []
+    },
+    "commonmetadata": {},
+    "extmetadata": {
+        "DateTime": {
+            "value": "2022-03-26 11:16:24",
+            "source": "mediawiki-metadata",
+            "hidden": ""
+        },
+        "ObjectName": {
+            "value": "ISO 7010 P046",
+            "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+            "value": 1.2,
+            "source": "extension",
+            "hidden": ""
+        },
+        "Categories": {
+            "value": "Self-published work|PD-self|ISO 7010 safety signs (vector drawings)|ISO 7010 prohibition signs|GB 40232-2021 Safety Signs",
+            "source": "commons-categories",
+            "hidden": ""
+        },
+        "Assessments": {
+            "value": "",
+            "source": "commons-categories",
+            "hidden": ""
+        },
+        "ImageDescription": {
+            "value": "Prohibition sign P046: <i>Do not stretch out of toboggan</i>",
+            "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+            "value": "2017-12-11",
+            "source": "commons-desc-page"
+        },
+        "Credit": {
+            "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.iso.org/obp/ui/#iso:grs:7010:P046\">ISO 7010 - P046</a><br><span class=\"int-own-work\" lang=\"en\">Own work</span>",
+            "source": "commons-desc-page"
+        },
+        "Artist": {
+            "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.iso.org/\">ISO</a>",
+            "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+            "value": "Public domain",
+            "source": "commons-desc-page",
+            "hidden": ""
+        },
+        "UsageTerms": {
+            "value": "Public domain",
+            "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+            "value": "false",
+            "source": "commons-desc-page",
+            "hidden": ""
+        },
+        "Copyrighted": {
+            "value": "False",
+            "source": "commons-desc-page",
+            "hidden": ""
+        },
+        "Restrictions": {
+            "value": "",
+            "source": "commons-desc-page",
+            "hidden": ""
+        },
+        "License": {
+            "value": "pd",
+            "source": "commons-templates",
+            "hidden": ""
+        }
+    },
+    "mime": "image/svg+xml",
+    "bitdepth": 0,
+    "num": 1,
+    "filename": "ISO 7010 P046",
+    "extension": "svg",
+    "date": "2022-03-26 11:16:24",
+    "pageid": 116424956,
+    "ns": 6,
+    "title": "File:ISO 7010 P046.svg",
+    "imagerepository": "local",
+    "count": 1,
+    "page": "Category:ISO_7010_prohibition_signs",
+    "category": "wikimediacommons",
+    "subcategory": "category"
+}

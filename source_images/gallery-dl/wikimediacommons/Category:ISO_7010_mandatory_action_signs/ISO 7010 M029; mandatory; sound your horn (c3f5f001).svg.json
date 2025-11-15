@@ -1,0 +1,112 @@
+{
+    "timestamp": "2021-05-16T01:36:01Z",
+    "user": "Repeater-reclaim",
+    "userid": 3982252,
+    "size": 2191,
+    "width": 265,
+    "height": 265,
+    "comment": "Uploaded own work with UploadWizard",
+    "canonicaltitle": "File:ISO 7010 M029; mandatory; sound your horn.svg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/1/13/ISO_7010_M029%3B_mandatory%3B_sound_your_horn.svg",
+    "descriptionurl": "https://commons.wikimedia.org/wiki/File:ISO_7010_M029;_mandatory;_sound_your_horn.svg",
+    "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=105354996",
+    "sha1": "c3f5f001a4f78d157008561756d2cdf155862a1f",
+    "metadata": {
+        "version": 2,
+        "width": 265,
+        "height": 265,
+        "originalWidth": "264.567",
+        "originalHeight": "264.567",
+        "translations": []
+    },
+    "commonmetadata": {},
+    "extmetadata": {
+        "DateTime": {
+            "value": "2021-05-16 01:36:01",
+            "source": "mediawiki-metadata",
+            "hidden": ""
+        },
+        "ObjectName": {
+            "value": "ISO 7010 M029; mandatory; sound your horn",
+            "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+            "value": 1.2,
+            "source": "extension",
+            "hidden": ""
+        },
+        "Categories": {
+            "value": "CC-Zero|Self-published work|ISO 7010 mandatory action signs|ISO 7010 safety signs (vector drawings)|Valid SVG created with Other tools:Signs",
+            "source": "commons-categories",
+            "hidden": ""
+        },
+        "Assessments": {
+            "value": "",
+            "source": "commons-categories",
+            "hidden": ""
+        },
+        "ImageDescription": {
+            "value": "ISO 7010 M029; mandatory; sound your horn",
+            "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+            "value": "2019-01-01",
+            "source": "commons-desc-page"
+        },
+        "Credit": {
+            "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+            "source": "commons-desc-page"
+        },
+        "Artist": {
+            "value": "<a href=\"//commons.wikimedia.org/wiki/User:Repeater-reclaim\" title=\"User:Repeater-reclaim\">Author</a>",
+            "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+            "value": "CC0",
+            "source": "commons-desc-page",
+            "hidden": ""
+        },
+        "UsageTerms": {
+            "value": "Creative Commons Zero, Public Domain Dedication",
+            "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+            "value": "false",
+            "source": "commons-desc-page",
+            "hidden": ""
+        },
+        "LicenseUrl": {
+            "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+            "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+            "value": "True",
+            "source": "commons-desc-page",
+            "hidden": ""
+        },
+        "Restrictions": {
+            "value": "",
+            "source": "commons-desc-page",
+            "hidden": ""
+        },
+        "License": {
+            "value": "cc0",
+            "source": "commons-templates",
+            "hidden": ""
+        }
+    },
+    "mime": "image/svg+xml",
+    "bitdepth": 0,
+    "num": 1,
+    "filename": "ISO 7010 M029; mandatory; sound your horn",
+    "extension": "svg",
+    "date": "2021-05-16 01:36:01",
+    "pageid": 105354996,
+    "ns": 6,
+    "title": "File:ISO 7010 M029; mandatory; sound your horn.svg",
+    "imagerepository": "local",
+    "count": 1,
+    "page": "Category:ISO_7010_mandatory_action_signs",
+    "category": "wikimediacommons",
+    "subcategory": "category"
+}

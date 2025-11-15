@@ -1,0 +1,108 @@
+{
+    "timestamp": "2022-04-04T13:53:38Z",
+    "user": "Jonas Steinhöfel",
+    "userid": 1701477,
+    "size": 5763,
+    "width": 265,
+    "height": 265,
+    "comment": "== {{int:filedesc}} ==\n{{Information\n|Description=\n{{de|[[:de:Verbotszeichen|Verbotszeichen]] P070: ''Finger nicht in die Hydromassagedüse stecken''}}\n{{en|Prohibition sign P070: ''Do not put finger into the nozzle of a hydromassage''}}\n|Date=2019-07-03\n|source=[https://www.iso.org/obp/ui/#iso:grs:7010:P070 ISO 7010 - P070]<br />{{own}}\n|author=[https://www.iso.org/ ISO]\n|Permission = \n|other_versions=\n}}\n\n== {{int:license-header}} ==\n{{PD-self}}\n\n[[Category:ISO 7010 prohibition signs]]\n[[Cat...",
+    "canonicaltitle": "File:ISO 7010 P070.svg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/3/3c/ISO_7010_P070.svg",
+    "descriptionurl": "https://commons.wikimedia.org/wiki/File:ISO_7010_P070.svg",
+    "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=116656274",
+    "sha1": "087c8457a647b15dda0dd4871c4c1a51406f2a13",
+    "metadata": {
+        "version": 2,
+        "width": 265,
+        "height": 265,
+        "originalWidth": "265",
+        "originalHeight": "265",
+        "translations": []
+    },
+    "commonmetadata": {},
+    "extmetadata": {
+        "DateTime": {
+            "value": "2022-04-04 13:53:38",
+            "source": "mediawiki-metadata",
+            "hidden": ""
+        },
+        "ObjectName": {
+            "value": "ISO 7010 P070",
+            "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+            "value": 1.2,
+            "source": "extension",
+            "hidden": ""
+        },
+        "Categories": {
+            "value": "Self-published work|PD-self|ISO 7010 safety signs (vector drawings)|ISO 7010 prohibition signs",
+            "source": "commons-categories",
+            "hidden": ""
+        },
+        "Assessments": {
+            "value": "",
+            "source": "commons-categories",
+            "hidden": ""
+        },
+        "ImageDescription": {
+            "value": "Prohibition sign P070: <i>Do not put finger into the nozzle of a hydromassage</i>",
+            "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+            "value": "2019-07-03",
+            "source": "commons-desc-page"
+        },
+        "Credit": {
+            "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.iso.org/obp/ui/#iso:grs:7010:P070\">ISO 7010 - P070</a><br><span class=\"int-own-work\" lang=\"en\">Own work</span>",
+            "source": "commons-desc-page"
+        },
+        "Artist": {
+            "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.iso.org/\">ISO</a>",
+            "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+            "value": "Public domain",
+            "source": "commons-desc-page",
+            "hidden": ""
+        },
+        "UsageTerms": {
+            "value": "Public domain",
+            "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+            "value": "false",
+            "source": "commons-desc-page",
+            "hidden": ""
+        },
+        "Copyrighted": {
+            "value": "False",
+            "source": "commons-desc-page",
+            "hidden": ""
+        },
+        "Restrictions": {
+            "value": "",
+            "source": "commons-desc-page",
+            "hidden": ""
+        },
+        "License": {
+            "value": "pd",
+            "source": "commons-templates",
+            "hidden": ""
+        }
+    },
+    "mime": "image/svg+xml",
+    "bitdepth": 0,
+    "num": 1,
+    "filename": "ISO 7010 P070",
+    "extension": "svg",
+    "date": "2022-04-04 13:53:38",
+    "pageid": 116656274,
+    "ns": 6,
+    "title": "File:ISO 7010 P070.svg",
+    "imagerepository": "local",
+    "count": 1,
+    "page": "Category:ISO_7010_prohibition_signs",
+    "category": "wikimediacommons",
+    "subcategory": "category"
+}

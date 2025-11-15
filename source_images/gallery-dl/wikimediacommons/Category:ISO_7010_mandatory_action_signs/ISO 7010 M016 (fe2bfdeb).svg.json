@@ -1,0 +1,108 @@
+{
+    "timestamp": "2022-04-10T16:54:30Z",
+    "user": "Jonas Steinhöfel",
+    "userid": 1701477,
+    "size": 1510,
+    "width": 265,
+    "height": 265,
+    "comment": "svg size fix",
+    "canonicaltitle": "File:ISO 7010 M016.svg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/8/80/ISO_7010_M016.svg",
+    "descriptionurl": "https://commons.wikimedia.org/wiki/File:ISO_7010_M016.svg",
+    "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=31972905",
+    "sha1": "fe2bfdeb32c9a82c8ca843a8da1cdca3ea9ce8c3",
+    "metadata": {
+        "version": 2,
+        "width": 265,
+        "height": 265,
+        "originalWidth": "265",
+        "originalHeight": "265",
+        "translations": []
+    },
+    "commonmetadata": {},
+    "extmetadata": {
+        "DateTime": {
+            "value": "2022-04-10 16:54:30",
+            "source": "mediawiki-metadata",
+            "hidden": ""
+        },
+        "ObjectName": {
+            "value": "ISO 7010 M016",
+            "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+            "value": 1.2,
+            "source": "extension",
+            "hidden": ""
+        },
+        "Categories": {
+            "value": "PD ineligible|Images with annotations|ISO 7010 mandatory action signs|ISO 7010 safety signs (vector drawings)|Personal protective equipment signs|Diagrams of mandatory respiratory protection safety signs|People with surgical masks in art|Valid SVG created with Other tools:ISO 7010 signs|Logos and symbols about the COVID-19 pandemic|Signs about protective masks during the COVID-19 pandemic",
+            "source": "commons-categories",
+            "hidden": ""
+        },
+        "Assessments": {
+            "value": "",
+            "source": "commons-categories",
+            "hidden": ""
+        },
+        "ImageDescription": {
+            "value": "Mandatory action sign M016: <i>Wear a mask</i>",
+            "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+            "value": "2011-05-01",
+            "source": "commons-desc-page"
+        },
+        "Credit": {
+            "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.iso.org/obp/ui/#iso:grs:7010:M016\">ISO 7010 - M016</a><br><span class=\"int-own-work\" lang=\"en\">Own work</span>",
+            "source": "commons-desc-page"
+        },
+        "Artist": {
+            "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.iso.org/\">ISO</a>",
+            "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+            "value": "Public domain",
+            "source": "commons-desc-page",
+            "hidden": ""
+        },
+        "UsageTerms": {
+            "value": "Public domain",
+            "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+            "value": "false",
+            "source": "commons-desc-page",
+            "hidden": ""
+        },
+        "Copyrighted": {
+            "value": "False",
+            "source": "commons-desc-page",
+            "hidden": ""
+        },
+        "Restrictions": {
+            "value": "",
+            "source": "commons-desc-page",
+            "hidden": ""
+        },
+        "License": {
+            "value": "pd",
+            "source": "commons-templates",
+            "hidden": ""
+        }
+    },
+    "mime": "image/svg+xml",
+    "bitdepth": 0,
+    "num": 1,
+    "filename": "ISO 7010 M016",
+    "extension": "svg",
+    "date": "2022-04-10 16:54:30",
+    "pageid": 31972905,
+    "ns": 6,
+    "title": "File:ISO 7010 M016.svg",
+    "imagerepository": "local",
+    "count": 1,
+    "page": "Category:ISO_7010_mandatory_action_signs",
+    "category": "wikimediacommons",
+    "subcategory": "category"
+}

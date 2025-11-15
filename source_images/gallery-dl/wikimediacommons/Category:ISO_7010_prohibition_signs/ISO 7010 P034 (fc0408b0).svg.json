@@ -1,0 +1,108 @@
+{
+    "timestamp": "2022-04-04T15:05:31Z",
+    "user": "Jonas Steinhöfel",
+    "userid": 1701477,
+    "size": 23508,
+    "width": 265,
+    "height": 265,
+    "comment": "Correct version from https://www.iso.org/obp/ui/#iso:grs:7010:P034",
+    "canonicaltitle": "File:ISO 7010 P034.svg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/1/12/ISO_7010_P034.svg",
+    "descriptionurl": "https://commons.wikimedia.org/wiki/File:ISO_7010_P034.svg",
+    "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=52172298",
+    "sha1": "fc0408b0527a52f55aa7712ca78be161d657dd77",
+    "metadata": {
+        "version": 2,
+        "width": 265,
+        "height": 265,
+        "originalWidth": "265",
+        "originalHeight": "265",
+        "translations": []
+    },
+    "commonmetadata": {},
+    "extmetadata": {
+        "DateTime": {
+            "value": "2022-04-04 15:05:31",
+            "source": "mediawiki-metadata",
+            "hidden": ""
+        },
+        "ObjectName": {
+            "value": "ISO 7010 P034",
+            "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+            "value": 1.2,
+            "source": "extension",
+            "hidden": ""
+        },
+        "Categories": {
+            "value": "PD Germany|Created with Inkscape-undef|Graphic Lab-de|SVG Anti logos|ISO 7010 safety signs (vector drawings)|ISO 7010 prohibition signs|Valid SVG created with Inkscape:Logos|Vectorizations|Signs by User:MaxxL",
+            "source": "commons-categories",
+            "hidden": ""
+        },
+        "Assessments": {
+            "value": "",
+            "source": "commons-categories",
+            "hidden": ""
+        },
+        "ImageDescription": {
+            "value": "Prohibition sign P034: <i>Not permissible for free-hand and hand-guided grinding</i>",
+            "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+            "value": "2011-05-01",
+            "source": "commons-desc-page"
+        },
+        "Credit": {
+            "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.iso.org/obp/ui/#iso:grs:7010:P034\">ISO 7010 - P034</a><br><span class=\"int-own-work\" lang=\"en\">Own work</span>",
+            "source": "commons-desc-page"
+        },
+        "Artist": {
+            "value": "<div style=\"display:inline-block;padding:0 3px;background-color:#CCF\">Original:</div> <div style=\"display:inline-block;padding:3px 0;\"><a rel=\"nofollow\" class=\"external text\" href=\"https://www.iso.org/\">ISO</a></div> <div style=\"display:inline-block;padding:0 3px;background-color:#CCF\">Vector: </div> <div style=\"display:inline-block;\"><a href=\"//commons.wikimedia.org/w/index.php?title=User:Uploader&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Uploader (page does not exist)\">Uploader</a></div>",
+            "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+            "value": "Public domain",
+            "source": "commons-desc-page",
+            "hidden": ""
+        },
+        "UsageTerms": {
+            "value": "Public domain",
+            "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+            "value": "false",
+            "source": "commons-desc-page",
+            "hidden": ""
+        },
+        "Copyrighted": {
+            "value": "False",
+            "source": "commons-desc-page",
+            "hidden": ""
+        },
+        "Restrictions": {
+            "value": "",
+            "source": "commons-desc-page",
+            "hidden": ""
+        },
+        "License": {
+            "value": "pd",
+            "source": "commons-templates",
+            "hidden": ""
+        }
+    },
+    "mime": "image/svg+xml",
+    "bitdepth": 0,
+    "num": 1,
+    "filename": "ISO 7010 P034",
+    "extension": "svg",
+    "date": "2022-04-04 15:05:31",
+    "pageid": 52172298,
+    "ns": 6,
+    "title": "File:ISO 7010 P034.svg",
+    "imagerepository": "local",
+    "count": 1,
+    "page": "Category:ISO_7010_prohibition_signs",
+    "category": "wikimediacommons",
+    "subcategory": "category"
+}

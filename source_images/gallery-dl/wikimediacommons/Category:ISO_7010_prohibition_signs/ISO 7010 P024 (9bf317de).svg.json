@@ -1,0 +1,108 @@
+{
+    "timestamp": "2022-03-22T18:43:11Z",
+    "user": "Jonas Steinhöfel",
+    "userid": 1701477,
+    "size": 1576,
+    "width": 265,
+    "height": 265,
+    "comment": "Correct version from https://www.iso.org/obp/ui/#iso:grs:7010:P024",
+    "canonicaltitle": "File:ISO 7010 P024.svg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/7/74/ISO_7010_P024.svg",
+    "descriptionurl": "https://commons.wikimedia.org/wiki/File:ISO_7010_P024.svg",
+    "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=26500904",
+    "sha1": "9bf317debac0815e437b787ca56b64f7d4e7d57e",
+    "metadata": {
+        "version": 2,
+        "width": 265,
+        "height": 265,
+        "originalWidth": "265",
+        "originalHeight": "265",
+        "translations": []
+    },
+    "commonmetadata": {},
+    "extmetadata": {
+        "DateTime": {
+            "value": "2022-03-22 18:43:11",
+            "source": "mediawiki-metadata",
+            "hidden": ""
+        },
+        "ObjectName": {
+            "value": "ISO 7010 P024",
+            "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+            "value": 1.2,
+            "source": "extension",
+            "hidden": ""
+        },
+        "Categories": {
+            "value": "PD ineligible|Self-published work|PD-self|ISO 7010 safety signs (vector drawings)|ISO 7010 prohibition signs|No standing signs|Signs by User:MaxxL|GC 1402-2022 National Strategic Reserve safety signs",
+            "source": "commons-categories",
+            "hidden": ""
+        },
+        "Assessments": {
+            "value": "",
+            "source": "commons-categories",
+            "hidden": ""
+        },
+        "ImageDescription": {
+            "value": "Prohibition sign P024: <i>Do not step in this area</i>",
+            "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+            "value": "2013-06-05",
+            "source": "commons-desc-page"
+        },
+        "Credit": {
+            "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.iso.org/obp/ui/#iso:grs:7010:P024\">ISO 7010 - P024</a><br><span class=\"int-own-work\" lang=\"en\">Own work</span>",
+            "source": "commons-desc-page"
+        },
+        "Artist": {
+            "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.iso.org/\">ISO</a>",
+            "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+            "value": "Public domain",
+            "source": "commons-desc-page",
+            "hidden": ""
+        },
+        "UsageTerms": {
+            "value": "Public domain",
+            "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+            "value": "false",
+            "source": "commons-desc-page",
+            "hidden": ""
+        },
+        "Copyrighted": {
+            "value": "False",
+            "source": "commons-desc-page",
+            "hidden": ""
+        },
+        "Restrictions": {
+            "value": "",
+            "source": "commons-desc-page",
+            "hidden": ""
+        },
+        "License": {
+            "value": "pd",
+            "source": "commons-templates",
+            "hidden": ""
+        }
+    },
+    "mime": "image/svg+xml",
+    "bitdepth": 0,
+    "num": 1,
+    "filename": "ISO 7010 P024",
+    "extension": "svg",
+    "date": "2022-03-22 18:43:11",
+    "pageid": 26500904,
+    "ns": 6,
+    "title": "File:ISO 7010 P024.svg",
+    "imagerepository": "local",
+    "count": 1,
+    "page": "Category:ISO_7010_prohibition_signs",
+    "category": "wikimediacommons",
+    "subcategory": "category"
+}

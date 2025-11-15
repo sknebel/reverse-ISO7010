@@ -1,0 +1,112 @@
+{
+    "timestamp": "2025-04-22T13:08:59Z",
+    "user": "Clemenspool",
+    "userid": 5830611,
+    "size": 3377,
+    "width": 265,
+    "height": 265,
+    "comment": "Uploaded a work by ISO.org from ISO 7010:2019/Amd 9:2025(en) Graphical symbols — Safety colours and safety signs — Registered safety signs — AMENDMENT 9 with UploadWizard",
+    "canonicaltitle": "File:ISO 7010 M070.svg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/8/8b/ISO_7010_M070.svg",
+    "descriptionurl": "https://commons.wikimedia.org/wiki/File:ISO_7010_M070.svg",
+    "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=163963350",
+    "sha1": "db68de6879a72bca5e04874768ef3ee2ea9b8ab1",
+    "metadata": {
+        "version": 2,
+        "width": 265,
+        "height": 265,
+        "originalWidth": "70.114578mm",
+        "originalHeight": "70.114586mm",
+        "translations": []
+    },
+    "commonmetadata": {},
+    "extmetadata": {
+        "DateTime": {
+            "value": "2025-04-22 13:08:59",
+            "source": "mediawiki-metadata",
+            "hidden": ""
+        },
+        "ObjectName": {
+            "value": "ISO 7010 M070",
+            "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+            "value": 1.2,
+            "source": "extension",
+            "hidden": ""
+        },
+        "Categories": {
+            "value": "CC-Zero|ISO 7010 mandatory action signs|ISO 7010 safety signs (vector drawings)",
+            "source": "commons-categories",
+            "hidden": ""
+        },
+        "Assessments": {
+            "value": "",
+            "source": "commons-categories",
+            "hidden": ""
+        },
+        "ImageDescription": {
+            "value": "ISO 7010 M070 Use lamp in luminaire with shield; To signify that the lamp must be used only in a luminaire with a protective shield.",
+            "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+            "value": "2025-04-22",
+            "source": "commons-desc-page"
+        },
+        "Credit": {
+            "value": "ISO 7010:2019/Amd 9:2025(en) Graphical symbols — Safety colours and safety signs — Registered safety signs — AMENDMENT 9",
+            "source": "commons-desc-page"
+        },
+        "Artist": {
+            "value": "ISO.org",
+            "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+            "value": "CC0",
+            "source": "commons-desc-page",
+            "hidden": ""
+        },
+        "UsageTerms": {
+            "value": "Creative Commons Zero, Public Domain Dedication",
+            "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+            "value": "false",
+            "source": "commons-desc-page",
+            "hidden": ""
+        },
+        "LicenseUrl": {
+            "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+            "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+            "value": "True",
+            "source": "commons-desc-page",
+            "hidden": ""
+        },
+        "Restrictions": {
+            "value": "",
+            "source": "commons-desc-page",
+            "hidden": ""
+        },
+        "License": {
+            "value": "cc0",
+            "source": "commons-templates",
+            "hidden": ""
+        }
+    },
+    "mime": "image/svg+xml",
+    "bitdepth": 0,
+    "num": 1,
+    "filename": "ISO 7010 M070",
+    "extension": "svg",
+    "date": "2025-04-22 13:08:59",
+    "pageid": 163963350,
+    "ns": 6,
+    "title": "File:ISO 7010 M070.svg",
+    "imagerepository": "local",
+    "count": 1,
+    "page": "Category:ISO_7010_mandatory_action_signs",
+    "category": "wikimediacommons",
+    "subcategory": "category"
+}

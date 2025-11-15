@@ -1,0 +1,112 @@
+{
+    "timestamp": "2023-11-07T20:52:58Z",
+    "user": "Clemenspool",
+    "userid": 5830611,
+    "size": 8278,
+    "width": 265,
+    "height": 265,
+    "comment": "Reworked svg",
+    "canonicaltitle": "File:ISO 7010 M060.svg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/5/53/ISO_7010_M060.svg",
+    "descriptionurl": "https://commons.wikimedia.org/wiki/File:ISO_7010_M060.svg",
+    "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=124343508",
+    "sha1": "8cec657e50f772f889db3beb53ac86b5a0a697cf",
+    "metadata": {
+        "version": 2,
+        "width": 265,
+        "height": 265,
+        "originalWidth": "264.56735",
+        "originalHeight": "264.56601",
+        "translations": []
+    },
+    "commonmetadata": {},
+    "extmetadata": {
+        "DateTime": {
+            "value": "2023-11-07 20:52:58",
+            "source": "mediawiki-metadata",
+            "hidden": ""
+        },
+        "ObjectName": {
+            "value": "ISO 7010 M060",
+            "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+            "value": 1.2,
+            "source": "extension",
+            "hidden": ""
+        },
+        "Categories": {
+            "value": "CC-Zero|Self-published work|ISO 7010 mandatory action signs|ISO 7010 safety signs (vector drawings)",
+            "source": "commons-categories",
+            "hidden": ""
+        },
+        "Assessments": {
+            "value": "",
+            "source": "commons-categories",
+            "hidden": ""
+        },
+        "ImageDescription": {
+            "value": "ISO 7010 M060 Hold the trolley handle; To signify that the handle of the trolley must be held firmly when using a moving walk or escalator",
+            "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+            "value": "2022-10-18",
+            "source": "commons-desc-page"
+        },
+        "Credit": {
+            "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+            "source": "commons-desc-page"
+        },
+        "Artist": {
+            "value": "<a href=\"//commons.wikimedia.org/wiki/User:Clemenspool\" title=\"User:Clemenspool\">Clemenspool</a>",
+            "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+            "value": "CC0",
+            "source": "commons-desc-page",
+            "hidden": ""
+        },
+        "UsageTerms": {
+            "value": "Creative Commons Zero, Public Domain Dedication",
+            "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+            "value": "false",
+            "source": "commons-desc-page",
+            "hidden": ""
+        },
+        "LicenseUrl": {
+            "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+            "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+            "value": "True",
+            "source": "commons-desc-page",
+            "hidden": ""
+        },
+        "Restrictions": {
+            "value": "",
+            "source": "commons-desc-page",
+            "hidden": ""
+        },
+        "License": {
+            "value": "cc0",
+            "source": "commons-templates",
+            "hidden": ""
+        }
+    },
+    "mime": "image/svg+xml",
+    "bitdepth": 0,
+    "num": 1,
+    "filename": "ISO 7010 M060",
+    "extension": "svg",
+    "date": "2023-11-07 20:52:58",
+    "pageid": 124343508,
+    "ns": 6,
+    "title": "File:ISO 7010 M060.svg",
+    "imagerepository": "local",
+    "count": 1,
+    "page": "Category:ISO_7010_mandatory_action_signs",
+    "category": "wikimediacommons",
+    "subcategory": "category"
+}

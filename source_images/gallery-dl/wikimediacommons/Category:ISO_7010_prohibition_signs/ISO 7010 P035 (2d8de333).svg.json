@@ -1,0 +1,112 @@
+{
+    "timestamp": "2022-03-25T19:51:51Z",
+    "user": "Jonas Steinhöfel",
+    "userid": 1701477,
+    "size": 11572,
+    "width": 265,
+    "height": 265,
+    "comment": "symbol fix",
+    "canonicaltitle": "File:ISO 7010 P035.svg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/ISO_7010_P035.svg",
+    "descriptionurl": "https://commons.wikimedia.org/wiki/File:ISO_7010_P035.svg",
+    "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=112452212",
+    "sha1": "2d8de3336e6ed53dfab78d9c6f912c6495a4619e",
+    "metadata": {
+        "version": 2,
+        "width": 265,
+        "height": 265,
+        "originalWidth": "265",
+        "originalHeight": "265",
+        "translations": []
+    },
+    "commonmetadata": {},
+    "extmetadata": {
+        "DateTime": {
+            "value": "2022-03-25 19:51:51",
+            "source": "mediawiki-metadata",
+            "hidden": ""
+        },
+        "ObjectName": {
+            "value": "ISO 7010 P035",
+            "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+            "value": 1.2,
+            "source": "extension",
+            "hidden": ""
+        },
+        "Categories": {
+            "value": "Superseded|Self-published work|ISO 7010 safety signs (vector drawings)|ISO 7010 prohibition signs|GC 1402-2022 National Strategic Reserve safety signs",
+            "source": "commons-categories",
+            "hidden": ""
+        },
+        "Assessments": {
+            "value": "",
+            "source": "commons-categories",
+            "hidden": ""
+        },
+        "ImageDescription": {
+            "value": "Prohibition sign P035: Do not wear metal-studded footwear",
+            "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+            "value": "2021-11-03",
+            "source": "commons-desc-page"
+        },
+        "Credit": {
+            "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.iso.org/obp/ui/#iso:grs:7010:P035\">ISO 7010 - P035</a><br><span class=\"int-own-work\" lang=\"en\">Own work</span>",
+            "source": "commons-desc-page"
+        },
+        "Artist": {
+            "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Crv&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Crv (page does not exist)\">Crv</a>",
+            "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+            "value": "CC BY-SA 4.0",
+            "source": "commons-desc-page",
+            "hidden": ""
+        },
+        "UsageTerms": {
+            "value": "Creative Commons Attribution-Share Alike 4.0",
+            "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+            "value": "true",
+            "source": "commons-desc-page",
+            "hidden": ""
+        },
+        "LicenseUrl": {
+            "value": "https://creativecommons.org/licenses/by-sa/4.0",
+            "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+            "value": "True",
+            "source": "commons-desc-page",
+            "hidden": ""
+        },
+        "Restrictions": {
+            "value": "",
+            "source": "commons-desc-page",
+            "hidden": ""
+        },
+        "License": {
+            "value": "cc-by-sa-4.0",
+            "source": "commons-templates",
+            "hidden": ""
+        }
+    },
+    "mime": "image/svg+xml",
+    "bitdepth": 0,
+    "num": 1,
+    "filename": "ISO 7010 P035",
+    "extension": "svg",
+    "date": "2022-03-25 19:51:51",
+    "pageid": 112452212,
+    "ns": 6,
+    "title": "File:ISO 7010 P035.svg",
+    "imagerepository": "local",
+    "count": 1,
+    "page": "Category:ISO_7010_prohibition_signs",
+    "category": "wikimediacommons",
+    "subcategory": "category"
+}
