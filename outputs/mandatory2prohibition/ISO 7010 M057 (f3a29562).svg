@@ -1,0 +1,12 @@
+<ns0:svg xmlns:ns0="http://www.w3.org/2000/svg" width="265px" height="265px" version="1.1" xml:space="preserve" style="fill-rule:evenodd;clip-rule:evenodd;stroke-miterlimit:10;">
+    <ns0:path d="M0,132.5C0,59.325 59.319,0 132.496,0C205.681,0 265,59.324 265,132.5C265,205.683 205.681,265 132.496,265C59.319,265.001 0,205.683 0,132.5" style="fill-rule:nonzero;" fill="#fff" />
+    <ns0:g id="m057">
+        <ns0:path d="M62.823,108.669L62.823,61.214L208.725,61.214L208.725,80.598" style="fill:none;stroke:black;stroke-width:17px;" />
+        <ns0:path d="M62.823,205.137L208.725,205.137L208.725,155.069" style="fill:none;stroke:black;stroke-width:17px;stroke-linecap:square;" />
+        <ns0:path d="M62.823,108.669L62.823,205.137" style="fill:none;stroke:black;stroke-width:6px;stroke-linecap:square;" />
+        <ns0:path d="M125.32,117.191L107.801,92.838L136.085,82.838L125.32,117.191Z" style="" fill="#000" />
+        <ns0:path d="M214.544,98.316C175.911,83.538 184.626,114.354 126.122,98.579" style="fill:none;stroke:black;stroke-width:8px;stroke-linecap:square;" />
+        <ns0:path d="M230.592,103.372L245.836,129.21L216.763,136.61L230.592,103.372Z" style="" fill="#000" />
+        <ns0:path d="M140.091,122.925C176.044,134.924 172.969,101.861 228.109,121.835" style="fill:none;stroke:black;stroke-width:8px;stroke-linecap:square;" />
+    </ns0:g>
+</ns0:svg>
